@@ -3,7 +3,7 @@ Screeba
 
 ![Screeba](./images/scribe.jpg 'Screeba')
 
-Awesome modular logger for [NodeJS](http://nodejs.org)
+Screeba [*'skriba*] it's an awesome modular logger for [NodeJS](http://nodejs.org)
 
 ## License
 The MIT License (MIT)
