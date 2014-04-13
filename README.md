@@ -5,6 +5,15 @@ Screeba
 
 Screeba [*'skriba*] it's an awesome modular logger for [NodeJS](http://nodejs.org)
 
+## Installation
+First of all, install [**NPM**](https://www.npmjs.org/)
+
+Then, install **Screeba**
+
+```bash
+$ npm install screeba
+```
+
 ## License
 The MIT License (MIT)
 
