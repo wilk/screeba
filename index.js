@@ -2,7 +2,7 @@
 
 var q = require('q'),
     Logger = require('./lib/Logger'),
-    Screeba;
+    Screeba = {};
 
 (function (Screeba) {
     Screeba.loggers = [];
