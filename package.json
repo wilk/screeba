@@ -1,0 +1,26 @@
+{
+  "name": "screeba",
+  "version": "0.0.1",
+  "description": "Awesome modular logger for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wilk/screeba"
+  },
+  "keywords": [
+    "logger",
+    "node",
+    "nodejs",
+    "log"
+  ],
+  "author": "Vincenzo (Wilk) Ferrari <wilk3ert@gmail.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "fa9fc3a444407cc7eb113f7ec06fde180cb5de9a",
+  "dependencies": {
+    "q": "~1.0.1"
+  }
+}
