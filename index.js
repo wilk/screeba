@@ -1,7 +1,7 @@
 'use strict';
 
 var q = require('q'),
-    Logger = require('./lib/Logger'),
+    Logger = require('./lib/logger'),
     Screeba = {};
 
 (function (Screeba) {
