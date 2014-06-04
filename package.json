@@ -1,6 +1,6 @@
 {
   "name": "screeba",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Awesome modular logger for NodeJS",
   "main": "index.js",
   "scripts": {
